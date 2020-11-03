@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./cloudDelvery/libs/android-support-design.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cloudDelvery/libs/android-support-design.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../work/twant/caches/transforms-2/files-2.1/e9dde946ee750eca2e031b4cf660659f/core-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../work/twant/caches/transforms-2/files-2.1/e9dde946ee750eca2e031b4cf660659f/core-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../work/twant/caches/transforms-2/files-2.1/e9dde946ee750eca2e031b4cf660659f/core-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../work/twant/caches/transforms-2/files-2.1/e9dde946ee750eca2e031b4cf660659f/core-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
